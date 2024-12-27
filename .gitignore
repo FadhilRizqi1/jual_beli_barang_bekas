@@ -1,6 +1,3 @@
-# Ignore environment variables file
-.env
-
 # Ignore binary files
 /bin/
 /obj/
