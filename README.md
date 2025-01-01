@@ -284,7 +284,7 @@
     }
 
 ### d.	Delete Item
-    Endpoint: DELETE /items/:id
+  Endpoint: DELETE /items/:id
     
     Response:
     204 No Content
