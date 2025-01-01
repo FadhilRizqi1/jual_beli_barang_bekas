@@ -366,6 +366,7 @@
 ### d.	Delete Transaction
 
    Endpoint: DELETE /transactions/:id 
+   
    Response:
     
     204 No Content
